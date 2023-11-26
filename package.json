@@ -1,0 +1,25 @@
+{
+  "name": "gmailapi",
+  "version": "1.0.0",
+  "description": "OpenInApp Hiring Assessment...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muthu-kesavan/AutoReplyApp.git"
+  },
+  "author": "Muthu kesavan S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Muthu-kesavan/AutoReplyApp/issues"
+  },
+  "homepage": "https://github.com/Muthu-kesavan/AutoReplyApp#readme",
+  "dependencies": {
+    "@google-cloud/local-auth": "^3.0.0",
+    "express": "^4.18.2",
+    "googleapis": "^128.0.0",
+    "nodemon": "^3.0.1"
+  }
+}
